@@ -1,5 +1,4 @@
 #!/usr/bin/env python
-# -*- coding: utf-8 -*-
 import time
 while 1:
     s = 'это бегущая заглавная буква по строке'
